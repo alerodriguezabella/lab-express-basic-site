@@ -1,0 +1,40 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex h1 {
+    margin-left: 10px;
+}
+
+.nav_container a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.bella-home {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.bella-about, .bella-works {
+    margin-left: 10px;
+}
+
+.bella-img {
+    text-align: center;
+}
+
+.bella-img img {
+    border-radius: 10px;
+}
+
